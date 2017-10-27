@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichChiCrysMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Chili and Crystals.",
+  "shortdescription" : "Sandwich - Chi+Crys",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichChiCrysMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

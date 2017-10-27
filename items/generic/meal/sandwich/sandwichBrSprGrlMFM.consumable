@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBrSprGrlMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Brussel Sprouts and Garlic.",
+  "shortdescription" : "Sandwich - BrSpr+Grl",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBrSprGrlMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

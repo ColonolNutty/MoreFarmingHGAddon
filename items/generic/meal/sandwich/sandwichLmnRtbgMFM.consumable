@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichLmnRtbgMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Lemons and Rutabaga.",
+  "shortdescription" : "Sandwich - Lmn+Rtbg",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichLmnRtbgMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

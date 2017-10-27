@@ -1,0 +1,22 @@
+{
+  "output" :   {
+    "item" : "sandwichAvesSwtPtMFM",
+    "count" : 1.0
+  },
+  "input" : [ 
+    {
+      "item" : "breadsliceMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedavesmingoMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedsweetpotatoMFM",
+      "count" : 2.0
+    } ],
+  "groups" : [ "preparingMFMNoRecipeBook" ]
+}

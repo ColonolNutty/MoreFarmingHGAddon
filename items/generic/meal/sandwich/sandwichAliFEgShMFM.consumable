@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichAliFEgShMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Alien Fruits and Eggshoots.",
+  "shortdescription" : "Sandwich - AliF+EgSh",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichAliFEgShMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

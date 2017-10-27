@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichPrklprSgrBtMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Pricklypears and Sugarbeet.",
+  "shortdescription" : "Sandwich - Prklpr+SgrBt",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichPrklprSgrBtMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

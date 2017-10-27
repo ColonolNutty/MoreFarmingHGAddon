@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichDidHolFrMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Diodia and Holiday Fruit.",
+  "shortdescription" : "Sandwich - Did+HolFr",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichDidHolFrMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

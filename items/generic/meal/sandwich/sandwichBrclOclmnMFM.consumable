@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBrclOclmnMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Broccoli and Oculemons.",
+  "shortdescription" : "Sandwich - Brcl+Oclmn",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBrclOclmnMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichAspBlpYMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Asparagus and Ylw B. Peppers.",
+  "shortdescription" : "Sandwich - Asp+BlpY",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichAspBlpYMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

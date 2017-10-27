@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichJlPprStrBryMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Jalapeno Peppers and Strawberries.",
+  "shortdescription" : "Sandwich - JlPpr+StrBry",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichJlPprStrBryMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

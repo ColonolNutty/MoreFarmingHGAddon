@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBlpRPssplmMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Red B. Peppers and Pussplums.",
+  "shortdescription" : "Sandwich - BlpR+Pssplm",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBlpRPssplmMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

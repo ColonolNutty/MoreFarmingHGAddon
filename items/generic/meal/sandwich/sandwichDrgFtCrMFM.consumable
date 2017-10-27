@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichDrgFtCrMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Dragonfruit and Feathercrown.",
+  "shortdescription" : "Sandwich - Drg+FtCr",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichDrgFtCrMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

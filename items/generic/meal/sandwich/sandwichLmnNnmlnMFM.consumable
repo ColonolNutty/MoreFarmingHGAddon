@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichLmnNnmlnMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Lemons and Neonmelon.",
+  "shortdescription" : "Sandwich - Lmn+Nnmln",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichLmnNnmlnMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

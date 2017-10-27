@@ -1,0 +1,22 @@
+{
+  "output" :   {
+    "item" : "sandwichRadRdAplMFM",
+    "count" : 1.0
+  },
+  "input" : [ 
+    {
+      "item" : "breadsliceMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedradishMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedredappleMFM",
+      "count" : 2.0
+    } ],
+  "groups" : [ "preparingMFMNoRecipeBook" ]
+}

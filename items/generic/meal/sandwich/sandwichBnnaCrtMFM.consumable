@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBnnaCrtMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Bananas and Carrots.",
+  "shortdescription" : "Sandwich - Bnna+Crt",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBnnaCrtMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

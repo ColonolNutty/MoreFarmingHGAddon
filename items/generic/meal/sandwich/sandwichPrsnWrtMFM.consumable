@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichPrsnWrtMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Parsnips and Wartweed.",
+  "shortdescription" : "Sandwich - Prsn+Wrt",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichPrsnWrtMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

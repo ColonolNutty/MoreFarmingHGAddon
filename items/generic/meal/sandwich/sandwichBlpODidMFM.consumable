@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBlpODidMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Org B. Peppers and Diodia.",
+  "shortdescription" : "Sandwich - BlpO+Did",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBlpODidMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

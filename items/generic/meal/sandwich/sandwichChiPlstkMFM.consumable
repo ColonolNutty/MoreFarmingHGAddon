@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichChiPlstkMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Chili and Palsterstick.",
+  "shortdescription" : "Sandwich - Chi+Plstk",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichChiPlstkMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

@@ -1,0 +1,22 @@
+{
+  "output" :   {
+    "item" : "sandwichBlpYBrclMFM",
+    "count" : 1.0
+  },
+  "input" : [ 
+    {
+      "item" : "breadsliceMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedbellpepperyellowMFM",
+      "count" : 2.0
+    },
+
+    {
+      "item" : "choppedbroccoliMFM",
+      "count" : 2.0
+    } ],
+  "groups" : [ "preparingMFMNoRecipeBook" ]
+}

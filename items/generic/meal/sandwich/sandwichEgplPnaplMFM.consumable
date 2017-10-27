@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichEgplPnaplMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Eggplants and Pineapple.",
+  "shortdescription" : "Sandwich - Egpl+Pnapl",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichEgplPnaplMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

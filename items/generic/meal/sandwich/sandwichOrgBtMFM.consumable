@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichOrgBtMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Oranges and Potatoes.",
+  "shortdescription" : "Sandwich - Org+Bt",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichOrgBtMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

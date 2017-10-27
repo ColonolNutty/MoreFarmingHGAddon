@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichCrysPssplmMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Crystals and Pussplums.",
+  "shortdescription" : "Sandwich - Crys+Pssplm",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichCrysPssplmMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

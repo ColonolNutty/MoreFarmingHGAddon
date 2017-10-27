@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichDidJlnMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Diodia and Jelon.",
+  "shortdescription" : "Sandwich - Did+Jln",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichDidJlnMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

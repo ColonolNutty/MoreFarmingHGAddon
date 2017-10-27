@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichRadStrBryMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Radishes and Strawberries.",
+  "shortdescription" : "Sandwich - Rad+StrBry",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichRadStrBryMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

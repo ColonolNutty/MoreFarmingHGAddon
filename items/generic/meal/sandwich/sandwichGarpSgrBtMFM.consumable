@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichGarpSgrBtMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Garpberries and Sugarbeet.",
+  "shortdescription" : "Sandwich - Garp+SgrBt",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichGarpSgrBtMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichCaflwJlnMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Cauliflower and Jelon.",
+  "shortdescription" : "Sandwich - Caflw+Jln",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichCaflwJlnMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

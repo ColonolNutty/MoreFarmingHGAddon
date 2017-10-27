@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBlpGBltBlbMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Grn B. Peppers and Boltbulbs.",
+  "shortdescription" : "Sandwich - BlpG+BltBlb",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBlpGBltBlbMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

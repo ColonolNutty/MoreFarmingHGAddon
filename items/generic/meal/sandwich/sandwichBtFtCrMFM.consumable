@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichBtFtCrMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Beets and Feathercrown.",
+  "shortdescription" : "Sandwich - Bt+FtCr",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichBtFtCrMFM.png",
+  "handPosition" : [ 0, -2 ]
+}

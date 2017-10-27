@@ -1,0 +1,17 @@
+{
+  "itemName" : "sandwichCuCrnJlPprMFM",
+  "rarity" : "Uncommon",
+  "price" : 260.8,
+  "category" : "preparedFood",
+  "tooltipKind" : "food",
+  "description" : "A sandwich made with Current Corn and Jalapeno Peppers.",
+  "shortdescription" : "Sandwich - CuCrn+JlPpr",
+  "foodValue" : 10.0,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "itemAgingScripts" : [ "/scripts/items/rotting.lua" ],
+  "rottingMultiplier" : 1,
+  "blockingEffects" : [ "wellfed" ],
+  "inventoryIcon" : "sandwichCuCrnJlPprMFM.png",
+  "handPosition" : [ 0, -2 ]
+}
